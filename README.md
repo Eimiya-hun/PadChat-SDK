@@ -184,6 +184,8 @@ API请求是以websocket协议发送的json数据，以下为json数据的字段
 
 ## DEMO
 
+使用`npm i padchat-sdk`安装sdk包
+
 使用DEMO见 [demo.js](./demo.js)
 
 ## API文档

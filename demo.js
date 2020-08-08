@@ -37,7 +37,7 @@ const autoData = {
 }
 let server = ''
 server = 'ws://47.99.211.34:8181/'
-// 永久免费使用
+// 服务器地址及token请联系客服获取
 
 try {
   const tmpBuf = fs.readFileSync('./config.json')
